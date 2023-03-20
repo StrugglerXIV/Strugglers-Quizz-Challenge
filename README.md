@@ -12,7 +12,7 @@ To open the page, simply click on the following link: "https://strugglerxiv.gith
 
 This a screenshot showcasing the live deployed webpage on github:
 
-![Challenge-4-Screenshot](./assets/Landing_page.PNG)
+![Challenge-4-Screenshot](./assets/Landing+page.PNG)
 
 ## Credits
 
