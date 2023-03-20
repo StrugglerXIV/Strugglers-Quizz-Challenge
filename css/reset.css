@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+score {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+time {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+}
+
+main {
+    margin-top: 15%;
+}
+
+
+main p {
+    margin-bottom: 5%;
+}
+
+.answer {
+    display: none;
+}
